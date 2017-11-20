@@ -18,3 +18,6 @@ What goes wrong?
 Eclipse gives an error depending on the ORDER of the builder methods that are called.
 To me it seems like Eclipse is not using the correct return type of the builder methods because they are overridden using a generic construct.
 
+License
+===
+I'm putting this under the Eclipse Public License so this code can be used as part of the test suite for Eclipse. 
